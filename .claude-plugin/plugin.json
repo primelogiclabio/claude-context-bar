@@ -1,11 +1,13 @@
 {
   "name": "context-bar",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "license": "MIT",
   "author": {
     "name": "prime"
   },
   "description": "Context card above the prompt, off until /context-bar show or the showBand option: the window as one bar segmented by /context category (system prompt, tools, MCP, agents, memory, skills, messages, free), a legend, a fill badge coloured by threshold, plus session tokens, cost and rate limits; /context-bar for the breakdown",
+  "homepage": "https://github.com/primelogiclabio/claude-context-bar",
+  "repository": "https://github.com/primelogiclabio/claude-context-bar",
   "types": "./types/index.d.ts",
   "userConfig": {
     "showBand": {
